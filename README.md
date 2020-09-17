@@ -3,4 +3,4 @@ This repository contains Notes and Resources associated with my studies. I am us
 
 Search by Section # .pdf for notes, and Resource Section # for Resources associated with the Section #.
 
-This repository of many that will document my education/journey toward a successful career in red hat security and help give back to the community.
+This repository of many that will document my education/journey toward a successful career in Red Team security and help give back to the community.
